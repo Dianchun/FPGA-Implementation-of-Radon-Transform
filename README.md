@@ -1,2 +1,4 @@
 # radon_tran
-算是梯形矫正吧
+FPGA implementation of Radon transform
+It's not finished yet
+
